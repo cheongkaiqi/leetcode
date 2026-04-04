@@ -24,4 +24,8 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/cheongkaiqi/leetcode/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/cheongkaiqi/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
