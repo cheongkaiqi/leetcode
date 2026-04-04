@@ -7,6 +7,7 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cheongkaiqi/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/cheongkaiqi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,4 +29,12 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/cheongkaiqi/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cheongkaiqi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/cheongkaiqi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
