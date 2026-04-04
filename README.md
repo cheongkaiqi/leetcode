@@ -47,4 +47,16 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cheongkaiqi/leetcode/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cheongkaiqi/leetcode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cheongkaiqi/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/cheongkaiqi/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
