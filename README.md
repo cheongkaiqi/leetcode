@@ -9,6 +9,7 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 | [0001-two-sum](https://github.com/cheongkaiqi/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/cheongkaiqi/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/cheongkaiqi/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/cheongkaiqi/leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/cheongkaiqi/leetcode/tree/master/0015-3sum) |
 | [0389-find-the-difference](https://github.com/cheongkaiqi/leetcode/tree/master/0389-find-the-difference) |
 ## Database
 |  |
@@ -48,6 +50,7 @@ My LeetCode problem-solving journey, auto-synced via LeetHub
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/cheongkaiqi/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/cheongkaiqi/leetcode/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
